@@ -1,0 +1,8 @@
+width X height    State                                                       Mode                               Correction
+1108 X  710        Fits Perfectly                                             Desktop Mode                     
+992-~1100 X 710    Horizontally Extends Out of Box                            Desktop Mode
+A         X 723    Goes below upper border                                    Desktop Mode                       bottom:583px; left:269px;
+1116~1300 X 723    Does not extend till right border of the box               Desktop Mode                       
+
+
+1258-1263
