@@ -421,13 +421,22 @@ margin-right: -15px;
 
 
 
-@media(min-width: 383px) and (max-width: 768px){
+@media(min-width:383px) and (max-width: 768px){
 
 .row383{
 margin-left: 40px;
 margin-right: 40px;
 }
 }
+
+@media(min-width:0px) and (max-width: 382px){
+
+.row50{
+margin-left: 25px;
+margin-right: 55px;
+}
+}
+
 
 @media(min-width: 769px) and (max-width: 778px){
 
